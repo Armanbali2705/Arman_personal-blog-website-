@@ -1,6 +1,6 @@
 <div align="center">
 
-# SimpleBlog - A Blog Website
+# SimpleBlog - Personal Blog Website is a responsive and modern blog site built using HTML, CSS, and JavaScript. This website features a clean design, dark/light mode, and a fully mobile-friendly layout. It serves as a personal space to share projects, thoughts, and achievements.
 
 SimpleBlog is a completely responsive personal blog website that is compatible with all mobile devices, has Dark and light themes, and is built using HTML, CSS, and JavaScript.
 
